@@ -1,0 +1,16 @@
+header, footer {
+	background-color: #343a40;
+}
+
+.card-body {
+	background-color: #ececec;
+}
+
+.detail:hover, .kategori:hover, #show-all:hover {
+	cursor: pointer;
+}
+
+.modal-body {
+    max-height: calc(100vh - 190px);
+    overflow-y: auto;
+}
